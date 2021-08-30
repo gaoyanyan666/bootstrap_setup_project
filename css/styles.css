@@ -43,3 +43,9 @@ footer {
     background-image: linear-gradient(#CEC8FF, white);
     padding: 20px 0;
 }
+
+.tab-content {
+    border: 1px solid #DDDDDD;
+    border-top: none;
+    padding: 10px;
+}
